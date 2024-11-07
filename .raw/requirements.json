@@ -1,5 +1,5 @@
 {
-    "solution": "Thanos",
+    "template": "Thanos",
     "credentials": [
         {
             "type": "SALESFORCE",
