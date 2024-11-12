@@ -1,4 +1,4 @@
 # yaml-language-server: $schema=https://cdn.raw-labs.com/raw-site-schemaV0.10.json
 raw: "0.10"
 publishUrl: hello-world
-enabled: false
+enabled: true
