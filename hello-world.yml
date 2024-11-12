@@ -7,7 +7,7 @@ metadata:
   tags:
     - studio54
 code: sql
-declaration: hello_world
+#declaration: hello_world
 codeFile: hello-world.sql
 format: json
 security:
