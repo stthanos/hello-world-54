@@ -2,7 +2,6 @@
 raw: "0.10"
 endpoint: GET
 metadata:
-  title: Hello world studio 54
   description: Hello world example
   tags:
     - studio54
