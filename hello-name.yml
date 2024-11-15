@@ -15,7 +15,7 @@ security:
 computeClass: normal
 enabled: true
 tests:
-  - name: Echo Name
+  - name: Echo Name!
     arguments:
       - key: name
         value: snapi
