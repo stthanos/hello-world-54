@@ -7,8 +7,8 @@ metadata:
   tags:
     - studio54
 code: snapi
-declaration: hello_world
-codeFile: hello-world.snapi
+# declaration: hello_world
+codeFile: let helloWorld = "Hello World";
 format: json
 security:
   public: true
