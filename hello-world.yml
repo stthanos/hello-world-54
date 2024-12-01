@@ -6,12 +6,13 @@ metadata:
   description: Hello world example
   tags:
     - studio54
-code: snapi
-declaration: hello_world
-codeFile: hello-world.snapi
+code: sql
+codeFile: code.sql
 format: json
 security:
-  public: true
+  public: false
+  scopes:
+    - test
 computeClass: normal
 enabled: true
 tests:

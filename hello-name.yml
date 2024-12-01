@@ -11,7 +11,9 @@ declaration: hello_name
 codeFile: hello-world.snapi
 format: json
 security:
-  public: true
+  public: false
+  scopes:
+    - other
 computeClass: normal
 enabled: true
 tests:
