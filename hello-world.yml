@@ -12,6 +12,8 @@ codeFile: hello-world.snapi
 format: json
 security:
   public: true
+  scopes:
+    - hello-world
 computeClass: normal
 enabled: true
 tests:
