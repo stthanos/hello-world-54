@@ -1,3 +1,4 @@
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.10.json
 raw: "0.10"
 endpoint: "GET"
 metadata:
@@ -8,10 +9,10 @@ metadata:
   contact:
     name: "thanasis.stouraitis@raw-labs.com"
     email: "thanasis.stouraitis@raw-labs.com"
-    url: ""
+    url: "https://raw-labs.com"
   license:
     name: "No License"
-    url: ""
+    url: "xxx"
 code: "sql"
 codeFile: "code.sql"
 security:
