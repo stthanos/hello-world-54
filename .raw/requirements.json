@@ -1,6 +1,6 @@
 {
     "template": "Thanos",
-    "credentials": [
+    "credentials": [""
         {
             "type": "SALESFORCE",
             "name": "salesforce"
