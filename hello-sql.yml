@@ -1,6 +1,6 @@
-# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.10.json
-raw: "0.10"
-endpoint: "GET"
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.11.json
+raw: "0.11"
+httpMethod: "GET"
 metadata:
   title: "SQL Endpoint"
   description: "My first sql endpoint"
@@ -13,7 +13,7 @@ metadata:
   license:
     name: "No License"
     url: "xxx"
-code: "sql"
+codeLanguage: "sql"
 codeFile: "code.sql"
 security:
   public: true
