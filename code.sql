@@ -1,2 +1,2 @@
 -- SELECT 'Hello World 54!' AS greeting;
-SELECT * FROM "ABC".airports;
+SELECT * FROM "ABC".tbl1;
