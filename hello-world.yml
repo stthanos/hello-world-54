@@ -1,12 +1,12 @@
-# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.10.json
-raw: "0.10"
-endpoint: GET
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.11.json
+raw: "0.11"
+httpMethod: GET
 metadata:
   title: Hello world studio 54
   description: Hello world example
   tags:
     - studio54
-code: sql
+codeLanguage: sql
 codeFile: code.sql
 format: json
 security:
