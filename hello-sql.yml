@@ -1,0 +1,26 @@
+# yaml-language-server: $schema=https://cdn.raw-labs.com/endpoint-schemaV0.11.json
+raw: "0.11"
+httpMethod: "GET"
+metadata:
+  title: "SQL Endpoint"
+  description: "My first sql endpoint"
+  tags: []
+  author: "thanasis.stouraitis@raw-labs.com"
+  contact:
+    name: "thanasis.stouraitis@raw-labs.com"
+    email: "thanasis.stouraitis@raw-labs.com"
+    url: "https://raw-labs.com"
+  license:
+    name: "No License"
+    url: "https://raw-labs.com"
+codeLanguage: "sql"
+codeFile: "code.sql"
+security:
+  public: true
+  scopes: []
+format: "json"
+enabled: true
+computeClass: "normal"
+computeLimitSeconds: 3600
+cacheSizeMB: 500
+expireSeconds: 30

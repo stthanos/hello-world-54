@@ -1,0 +1,13 @@
+{
+    "template": "Thanos",
+    "credentials": [
+        {
+            "type": "SALESFORCE",
+            "name": "salesforce"
+        },
+        {
+            "type": "GITHUB",
+            "name": "github"
+        }
+    ]
+}
